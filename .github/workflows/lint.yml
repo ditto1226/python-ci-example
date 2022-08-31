@@ -17,4 +17,4 @@ jobs:
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_PYTHON_BLACK: ture
-          VALIDATE_PYTHON_FLANK8: ture
+          VALIDATE_PYTHON_FLAKE8: ture
